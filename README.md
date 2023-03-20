@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Improve Docs arguments tables (#8415)
