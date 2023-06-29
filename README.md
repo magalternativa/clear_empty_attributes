@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
