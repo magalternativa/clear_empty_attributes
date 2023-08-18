@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
