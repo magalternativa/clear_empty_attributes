@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add HUB-SDK Docs reference section (#7781)
