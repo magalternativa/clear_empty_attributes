@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Merge pull request #22 from SkalskiP/patch-1
