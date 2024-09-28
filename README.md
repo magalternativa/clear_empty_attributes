@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Clarify triton server boolean value (#8532)
